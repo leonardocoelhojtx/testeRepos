@@ -1,0 +1,17 @@
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\bin\Debug\netcoreapp3.1\Private.Data.deps.json
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\bin\Debug\netcoreapp3.1\Private.Data.runtimeconfig.json
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\bin\Debug\netcoreapp3.1\Private.Data.runtimeconfig.dev.json
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\bin\Debug\netcoreapp3.1\Private.Data.dll
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\bin\Debug\netcoreapp3.1\Private.Data.pdb
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\bin\Debug\netcoreapp3.1\Private.Domain.dll
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\bin\Debug\netcoreapp3.1\Private.Service.dll
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\bin\Debug\netcoreapp3.1\Private.Domain.pdb
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\bin\Debug\netcoreapp3.1\Private.Service.pdb
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\obj\Debug\netcoreapp3.1\Private.Data.csprojAssemblyReference.cache
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\obj\Debug\netcoreapp3.1\Private.Data.AssemblyInfoInputs.cache
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\obj\Debug\netcoreapp3.1\Private.Data.AssemblyInfo.cs
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\obj\Debug\netcoreapp3.1\Private.Data.csproj.CoreCompileInputs.cache
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\obj\Debug\netcoreapp3.1\Private.Data.csproj.CopyComplete
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\obj\Debug\netcoreapp3.1\Private.Data.dll
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\obj\Debug\netcoreapp3.1\Private.Data.pdb
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Data\obj\Debug\netcoreapp3.1\Private.Data.genruntimeconfig.cache
