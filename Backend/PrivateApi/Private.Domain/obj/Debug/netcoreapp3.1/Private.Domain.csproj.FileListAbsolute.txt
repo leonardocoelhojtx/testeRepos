@@ -1,0 +1,9 @@
+C:\Users\lca\Documents\GitHub\DevLC\Backend\PrivateApi\Private.Domain\bin\Debug\netcoreapp3.1\Private.Domain.deps.json
+C:\Users\lca\Documents\GitHub\DevLC\Backend\PrivateApi\Private.Domain\bin\Debug\netcoreapp3.1\Private.Domain.dll
+C:\Users\lca\Documents\GitHub\DevLC\Backend\PrivateApi\Private.Domain\bin\Debug\netcoreapp3.1\Private.Domain.pdb
+C:\Users\lca\Documents\GitHub\DevLC\Backend\PrivateApi\Private.Domain\obj\Debug\netcoreapp3.1\Private.Domain.csprojAssemblyReference.cache
+C:\Users\lca\Documents\GitHub\DevLC\Backend\PrivateApi\Private.Domain\obj\Debug\netcoreapp3.1\Private.Domain.AssemblyInfoInputs.cache
+C:\Users\lca\Documents\GitHub\DevLC\Backend\PrivateApi\Private.Domain\obj\Debug\netcoreapp3.1\Private.Domain.AssemblyInfo.cs
+C:\Users\lca\Documents\GitHub\DevLC\Backend\PrivateApi\Private.Domain\obj\Debug\netcoreapp3.1\Private.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lca\Documents\GitHub\DevLC\Backend\PrivateApi\Private.Domain\obj\Debug\netcoreapp3.1\Private.Domain.dll
+C:\Users\lca\Documents\GitHub\DevLC\Backend\PrivateApi\Private.Domain\obj\Debug\netcoreapp3.1\Private.Domain.pdb
