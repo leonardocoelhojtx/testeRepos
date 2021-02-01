@@ -1,0 +1,12 @@
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\bin\Debug\netcoreapp3.1\Private.Service.deps.json
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\bin\Debug\netcoreapp3.1\Private.Service.dll
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\bin\Debug\netcoreapp3.1\Private.Service.pdb
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\bin\Debug\netcoreapp3.1\Private.Domain.dll
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\bin\Debug\netcoreapp3.1\Private.Domain.pdb
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\obj\Debug\netcoreapp3.1\Private.Service.csprojAssemblyReference.cache
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\obj\Debug\netcoreapp3.1\Private.Service.AssemblyInfoInputs.cache
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\obj\Debug\netcoreapp3.1\Private.Service.AssemblyInfo.cs
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\obj\Debug\netcoreapp3.1\Private.Service.csproj.CoreCompileInputs.cache
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\obj\Debug\netcoreapp3.1\Private.Service.csproj.CopyComplete
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\obj\Debug\netcoreapp3.1\Private.Service.dll
+C:\Users\lca\Documents\GitHub\DevLC\PrivateApi\Private.Service\obj\Debug\netcoreapp3.1\Private.Service.pdb
