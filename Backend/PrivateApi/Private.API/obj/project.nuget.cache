@@ -1,12 +1,22 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "L8+ZnwcHSO8IWEYJrQGUH4wWtfrWj6tfSaciTVHmtLFlkq4Ic6Q6nKl7zsW77YZBnriB7WUHsM6JaTjeBnmBcw==",
   "success": true,
   "projectFilePath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.API\\Private.API.csproj",
+=======
+  "dgSpecHash": "+5iwqWk/IfYZ3vMxQetVD5OQYOgaCelwBE3L2Au2D08YlEz2+z+7JV4wK1bne0qfBVWbe5oiu6iT1e1u9Vfx8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.API\\Private.API.csproj",
+>>>>>>> repoB/main
   "expectedPackageFiles": [
     "C:\\Users\\lca\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",
+<<<<<<< HEAD
+=======
+    "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.5\\microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
+>>>>>>> repoB/main
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.7\\microsoft.aspnetcore.hosting.2.2.7.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",
@@ -15,6 +25,11 @@
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+<<<<<<< HEAD
+=======
+    "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.5\\microsoft.aspnetcore.jsonpatch.3.1.5.nupkg.sha512",
+    "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.5\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.5.nupkg.sha512",
+>>>>>>> repoB/main
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0-preview1.19508.6\\microsoft.aspnetcore.razor.language.3.1.0-preview1.19508.6.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
@@ -27,7 +42,11 @@
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\3.4.0-beta2-final\\microsoft.codeanalysis.csharp.workspaces.3.4.0-beta2-final.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.codeanalysis.razor\\3.1.0-preview1.19508.6\\microsoft.codeanalysis.razor.3.1.0-preview1.19508.6.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\3.4.0-beta2-final\\microsoft.codeanalysis.workspaces.common.3.4.0-beta2-final.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.csharp\\4.7.0-preview1.19504.10\\microsoft.csharp.4.7.0-preview1.19504.10.nupkg.sha512",
+=======
+    "C:\\Users\\lca\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+>>>>>>> repoB/main
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19249.1\\microsoft.data.sqlclient.1.0.19249.1.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.4\\microsoft.entityframeworkcore.3.1.4.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.4\\microsoft.entityframeworkcore.abstractions.3.1.4.nupkg.sha512",
@@ -40,7 +59,11 @@
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.4\\microsoft.extensions.caching.abstractions.3.1.4.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.4\\microsoft.extensions.caching.memory.3.1.4.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+=======
+    "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+>>>>>>> repoB/main
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.4\\microsoft.extensions.configuration.binder.3.1.4.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\2.2.4\\microsoft.extensions.configuration.environmentvariables.2.2.4.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.4\\microsoft.extensions.configuration.fileextensions.3.1.4.nupkg.sha512",
@@ -57,10 +80,19 @@
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.logging.debug\\3.1.0-preview1.19506.1\\microsoft.extensions.logging.debug.3.1.0-preview1.19506.1.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.6.0\\microsoft.identitymodel.jsonwebtokens.6.6.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.identitymodel.logging\\6.6.0\\microsoft.identitymodel.logging.6.6.0.nupkg.sha512",
+=======
+    "C:\\Users\\lca\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\lca\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
+    "C:\\Users\\lca\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.6.0\\microsoft.identitymodel.jsonwebtokens.6.6.0.nupkg.sha512",
+    "C:\\Users\\lca\\.nuget\\packages\\microsoft.identitymodel.logging\\6.6.0\\microsoft.identitymodel.logging.6.6.0.nupkg.sha512",
+    "C:\\Users\\lca\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+    "C:\\Users\\lca\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
+>>>>>>> repoB/main
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.6.0\\microsoft.identitymodel.tokens.6.6.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
@@ -78,8 +110,13 @@
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\mysqlconnector\\0.61.0\\mysqlconnector.0.61.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\lca\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+=======
+    "C:\\Users\\lca\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\lca\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+>>>>>>> repoB/main
     "C:\\Users\\lca\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\3.1.1\\pomelo.entityframeworkcore.mysql.3.1.1.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\pomelo.entityframeworkcore.mysql.design\\1.1.2\\pomelo.entityframeworkcore.mysql.design.1.1.2.nupkg.sha512",

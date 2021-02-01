@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj",
         "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\obj\\",
+=======
+    "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj",
+        "projectName": "Private.Domain",
+        "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj",
+        "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\obj\\",
+>>>>>>> repoB/main
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lca\\AppData\\Roaming\\NuGet\\NuGet.Config",

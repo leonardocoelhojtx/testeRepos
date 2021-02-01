@@ -5999,11 +5999,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj",
       "projectName": "Private.Crosscuting",
       "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj",
       "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Crosscuting\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj",
+      "projectName": "Private.Crosscuting",
+      "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj",
+      "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\obj\\",
+>>>>>>> repoB/main
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6020,8 +6028,13 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Data\\Private.Data.csproj": {
               "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Data\\Private.Data.csproj"
+=======
+            "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj": {
+              "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj"
+>>>>>>> repoB/main
             }
           }
         }

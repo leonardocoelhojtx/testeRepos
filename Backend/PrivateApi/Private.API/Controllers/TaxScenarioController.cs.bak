@@ -1,0 +1,116 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Private.API.Filters;
+using Private.Domain.DTOs.TaxScenario;
+using Private.Domain.Interfaces.Services;
+
+namespace Private.API.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class TaxScenarioController : ControllerBase
+    {
+        private readonly ITaxScenarioService _service;
+
+        public TaxScenarioController(ITaxScenarioService service)
+        {
+            _service = service;
+        }
+
+        [HttpGet]
+        [Authorize]
+        public async Task<IActionResult> Get([FromQuery] TaxScenarioDtoGet dto)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            try
+            {
+                return Ok(await _service.GetTaxScenarios(dto));
+            }
+            catch (ArgumentException ex)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
+
+        [HttpGet("all")]
+        [Authorize]
+        public async Task<IActionResult> GetAll()
+        {
+            try
+            {
+                return Ok(await _service.GetAll());
+            }
+            catch (ArgumentException ex)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
+
+        [HttpGet("{id}")]
+        [Authorize]
+        public async Task<IActionResult> Get(Int64 id)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            try
+            {
+                return Ok(await _service.Get(id));
+            }
+            catch (ArgumentException ex)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
+
+        [HttpPost]
+        [Authorize]
+        public async Task<IActionResult> Post([FromBody] TaxScenarioDtoInsert taxScenario)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            try
+            {
+                return Ok(await _service.Post(taxScenario, TokenData.UserId));
+            }
+            catch (ArgumentException ex)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
+
+        [HttpPut("{id}")]
+        [Authorize]
+        public async Task<IActionResult> Put(Int64 id, [FromBody] TaxScenarioDtoUpdate taxScenario)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            try
+            {
+                return Ok(await _service.Put(id, taxScenario, TokenData.UserId));
+            }
+            catch (ArgumentException ex)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
+    }
+}

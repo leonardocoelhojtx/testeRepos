@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Nfgu0T3cHKGKMXnnNFxaOalJHGgyi5DvIWiX98jdsnrjNbEC/NJo68XXpqxapyZXCz3sTxCIs2qCRjL0VK4sgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj",
+=======
+  "dgSpecHash": "whd+r/6aTGQkZaZ6ea+QDfsBUyHksNuminU2irgbIdAqfwGvgwBBuVugPBi28Rdqz94A8jPOUnV3gmOH6bhvPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj",
+>>>>>>> repoB/main
   "expectedPackageFiles": [
     "C:\\Users\\lca\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.7\\microsoft.aspnetcore.hosting.2.2.7.nupkg.sha512",

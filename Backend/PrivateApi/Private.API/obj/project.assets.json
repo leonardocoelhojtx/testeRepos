@@ -40,6 +40,24 @@
           "lib/net45/System.Web.Http.dll": {}
         }
       },
+<<<<<<< HEAD
+=======
+      "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.5": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "5.5.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+>>>>>>> repoB/main
       "Microsoft.AspNetCore.Hosting/2.2.7": {
         "type": "package",
         "dependencies": {
@@ -159,6 +177,39 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {}
         }
       },
+<<<<<<< HEAD
+=======
+      "Microsoft.AspNetCore.JsonPatch/3.1.5": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.JsonPatch.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.JsonPatch.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.NewtonsoftJson/3.1.5": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.JsonPatch": "3.1.5",
+          "Newtonsoft.Json": "12.0.2",
+          "Newtonsoft.Json.Bson": "1.0.2"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+>>>>>>> repoB/main
       "Microsoft.AspNetCore.Razor/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -465,7 +516,11 @@
           }
         }
       },
+<<<<<<< HEAD
       "Microsoft.CSharp/4.7.0-preview1.19504.10": {
+=======
+      "Microsoft.CSharp/4.7.0": {
+>>>>>>> repoB/main
         "type": "package",
         "compile": {
           "ref/netcoreapp2.0/_._": {}
@@ -646,6 +701,7 @@
           "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.Extensions.Configuration.Abstractions/3.1.4": {
         "type": "package",
         "dependencies": {
@@ -656,6 +712,18 @@
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+=======
+      "Microsoft.Extensions.Configuration.Abstractions/5.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "5.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+>>>>>>> repoB/main
         }
       },
       "Microsoft.Extensions.Configuration.Binder/3.1.4": {
@@ -850,6 +918,7 @@
           "lib/netcoreapp3.1/Microsoft.Extensions.Options.dll": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.Extensions.Primitives/3.1.4": {
         "type": "package",
         "compile": {
@@ -857,6 +926,15 @@
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
+=======
+      "Microsoft.Extensions.Primitives/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {}
+>>>>>>> repoB/main
         }
       },
       "Microsoft.Identity.Client/3.0.8": {
@@ -899,6 +977,36 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll": {}
         }
       },
+<<<<<<< HEAD
+=======
+      "Microsoft.IdentityModel.Protocols/5.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.Logging": "5.5.0",
+          "Microsoft.IdentityModel.Tokens": "5.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll": {}
+        }
+      },
+      "Microsoft.IdentityModel.Protocols.OpenIdConnect/5.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols": "5.5.0",
+          "Newtonsoft.Json": "10.0.1",
+          "System.IdentityModel.Tokens.Jwt": "5.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll": {}
+        }
+      },
+>>>>>>> repoB/main
       "Microsoft.IdentityModel.Tokens/6.6.0": {
         "type": "package",
         "dependencies": {
@@ -1149,7 +1257,11 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
+<<<<<<< HEAD
       "Newtonsoft.Json/11.0.2": {
+=======
+      "Newtonsoft.Json/12.0.2": {
+>>>>>>> repoB/main
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
@@ -1158,6 +1270,7 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
+<<<<<<< HEAD
       "Newtonsoft.Json.Bson/1.0.1": {
         "type": "package",
         "dependencies": {
@@ -1169,6 +1282,18 @@
         },
         "runtime": {
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
+=======
+      "Newtonsoft.Json.Bson/1.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {}
+>>>>>>> repoB/main
         }
       },
       "NuGet.Frameworks/4.7.0": {
@@ -3026,6 +3151,24 @@
         "microsoft.aspnet.webapi.core.nuspec"
       ]
     },
+<<<<<<< HEAD
+=======
+    "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.5": {
+      "sha512": "yIVf8D7YasN7x1kZDZWcZ+8bO5xiSdjpKscseRTA3/7QJsbeTGhZ1i2/9oqtTD4FTsENYeq8tAfTngy50r+x8Q==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
+        "microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
+      ]
+    },
+>>>>>>> repoB/main
     "Microsoft.AspNetCore.Hosting/2.2.7": {
       "sha512": "O0ZBE53Fa9bVGXykDzvgMFW0Pe1QyPPFg1pazN8l3RUFSWBsDJ9/iD1LHXgADA8+ZD3R/1zkvraPa9SZdievxQ==",
       "type": "package",
@@ -3130,6 +3273,39 @@
         "microsoft.aspnetcore.http.features.nuspec"
       ]
     },
+<<<<<<< HEAD
+=======
+    "Microsoft.AspNetCore.JsonPatch/3.1.5": {
+      "sha512": "vvQ9G+o8+uO6pA2iz4oYsKEtybor1XYQif4HrRQXH4Uco9NTt411rcHk4eepEIb8ZQ7z5X0JpHZZv1A6dCcvaA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.jsonpatch/3.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netstandard2.0/Microsoft.AspNetCore.JsonPatch.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.JsonPatch.xml",
+        "microsoft.aspnetcore.jsonpatch.3.1.5.nupkg.sha512",
+        "microsoft.aspnetcore.jsonpatch.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Mvc.NewtonsoftJson/3.1.5": {
+      "sha512": "dqZV405jbxRnUfekVsf+krvxbmNrF1JQh+XG66H6GQzYb8kIJKM/bZgK2+oDtXb4tgGHeesLG+M/sHbvtuQOrQ==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.mvc.newtonsoftjson/3.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.xml",
+        "microsoft.aspnetcore.mvc.newtonsoftjson.3.1.5.nupkg.sha512",
+        "microsoft.aspnetcore.mvc.newtonsoftjson.nuspec"
+      ]
+    },
+>>>>>>> repoB/main
     "Microsoft.AspNetCore.Razor/2.2.0": {
       "sha512": "V54PIyDCFl8COnTp9gezNHpUNHk7F9UnerGeZy3UfbnwYvfzbo+ipqQmSgeoESH8e0JvKhRTyQyZquW2EPtCmg==",
       "type": "package",
@@ -3431,10 +3607,17 @@
         "microsoft.codeanalysis.workspaces.common.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.CSharp/4.7.0-preview1.19504.10": {
       "sha512": "/v+3zrT42mvIcQkoNo2PfMhGo0dQ4q2OnW4lE99HU/m2idK5rDnVay77RTS0E1xcWAoqFjALy7y7X2oiSscpLw==",
       "type": "package",
       "path": "microsoft.csharp/4.7.0-preview1.19504.10",
+=======
+    "Microsoft.CSharp/4.7.0": {
+      "sha512": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "type": "package",
+      "path": "microsoft.csharp/4.7.0",
+>>>>>>> repoB/main
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3457,7 +3640,11 @@
         "lib/xamarinmac20/_._",
         "lib/xamarintvos10/_._",
         "lib/xamarinwatchos10/_._",
+<<<<<<< HEAD
         "microsoft.csharp.4.7.0-preview1.19504.10.nupkg.sha512",
+=======
+        "microsoft.csharp.4.7.0.nupkg.sha512",
+>>>>>>> repoB/main
         "microsoft.csharp.nuspec",
         "ref/MonoAndroid10/_._",
         "ref/MonoTouch10/_._",
@@ -3713,20 +3900,40 @@
         "microsoft.extensions.configuration.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.Extensions.Configuration.Abstractions/3.1.4": {
       "sha512": "k7IJME4US5S5JFOGYaei5TLwutp8IqUvcBWtliKXETGn/JScmCgfej21xq5+ttxi0qZhiyJY06y9dw+cLh3kiQ==",
       "type": "package",
       "path": "microsoft.extensions.configuration.abstractions/3.1.4",
+=======
+    "Microsoft.Extensions.Configuration.Abstractions/5.0.0": {
+      "sha512": "ETjSBHMp3OAZ4HxGQYpwyGsD8Sw5FegQXphi0rpoGMT74S4+I2mm7XJEswwn59XAaKOzC15oDSOWEE8SzDCd6Q==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.abstractions/5.0.0",
+>>>>>>> repoB/main
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
         "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll",
         "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
         "microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
         "microsoft.extensions.configuration.abstractions.nuspec"
+=======
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+>>>>>>> repoB/main
       ]
     },
     "Microsoft.Extensions.Configuration.Binder/3.1.4": {
@@ -3973,20 +4180,42 @@
         "microsoft.extensions.options.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.Extensions.Primitives/3.1.4": {
       "sha512": "tLR9n5ltwA56nr1t5M6q5IBfGLXtMS+XgumtqVENmtPQOWUD+m0Kgo1U6GWr06Y875WUN3sOGnmqkvW4an7fYA==",
       "type": "package",
       "path": "microsoft.extensions.primitives/3.1.4",
+=======
+    "Microsoft.Extensions.Primitives/5.0.0": {
+      "sha512": "cI/VWn9G1fghXrNDagX9nYaaB/nokkZn0HYAawGaELQrl8InSezfe9OnfPZLcJq3esXxygh3hkq2c3qoV3SDyQ==",
+      "type": "package",
+      "path": "microsoft.extensions.primitives/5.0.0",
+>>>>>>> repoB/main
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
         "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
         "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
         "microsoft.extensions.primitives.3.1.4.nupkg.sha512",
         "microsoft.extensions.primitives.nuspec"
+=======
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Primitives.dll",
+        "lib/net461/Microsoft.Extensions.Primitives.xml",
+        "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll",
+        "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
+        "microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+        "microsoft.extensions.primitives.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+>>>>>>> repoB/main
       ]
     },
     "Microsoft.Identity.Client/3.0.8": {
@@ -4063,6 +4292,51 @@
         "microsoft.identitymodel.logging.nuspec"
       ]
     },
+<<<<<<< HEAD
+=======
+    "Microsoft.IdentityModel.Protocols/5.5.0": {
+      "sha512": "m1gwAQwZjUxzRBC+4H40vYSo9Cms9yUbMdW492rQoXHU77G/ItiKxpk2+W9bWYcdsKUDKudye7im3T3MlVxEkg==",
+      "type": "package",
+      "path": "microsoft.identitymodel.protocols/5.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Microsoft.IdentityModel.Protocols.dll",
+        "lib/net45/Microsoft.IdentityModel.Protocols.xml",
+        "lib/net451/Microsoft.IdentityModel.Protocols.dll",
+        "lib/net451/Microsoft.IdentityModel.Protocols.xml",
+        "lib/net461/Microsoft.IdentityModel.Protocols.dll",
+        "lib/net461/Microsoft.IdentityModel.Protocols.xml",
+        "lib/netstandard1.4/Microsoft.IdentityModel.Protocols.dll",
+        "lib/netstandard1.4/Microsoft.IdentityModel.Protocols.xml",
+        "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll",
+        "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.xml",
+        "microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+        "microsoft.identitymodel.protocols.nuspec"
+      ]
+    },
+    "Microsoft.IdentityModel.Protocols.OpenIdConnect/5.5.0": {
+      "sha512": "21F4QlbaD5CXNs2urNRCO6vljbbrhv3gmGT8P18SKGKZ9IYBCn29extoJriHiPfhABd5b8S7RcdKU50XhERkYg==",
+      "type": "package",
+      "path": "microsoft.identitymodel.protocols.openidconnect/5.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "lib/net45/Microsoft.IdentityModel.Protocols.OpenIdConnect.xml",
+        "lib/net451/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "lib/net451/Microsoft.IdentityModel.Protocols.OpenIdConnect.xml",
+        "lib/net461/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "lib/net461/Microsoft.IdentityModel.Protocols.OpenIdConnect.xml",
+        "lib/netstandard1.4/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "lib/netstandard1.4/Microsoft.IdentityModel.Protocols.OpenIdConnect.xml",
+        "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.xml",
+        "microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
+        "microsoft.identitymodel.protocols.openidconnect.nuspec"
+      ]
+    },
+>>>>>>> repoB/main
     "Microsoft.IdentityModel.Tokens/6.6.0": {
       "sha512": "fNfhlY7AEB9y/jooK6xI1vH+7rmq7c2kTEk7j/5SSy25iHRB1twrG8+He9sHxBQqIXhrQliMEwi4GXZInzO4ww==",
       "type": "package",
@@ -4709,10 +4983,17 @@
         "netstandard.library.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Newtonsoft.Json/11.0.2": {
       "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
       "type": "package",
       "path": "newtonsoft.json/11.0.2",
+=======
+    "Newtonsoft.Json/12.0.2": {
+      "sha512": "rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.2",
+>>>>>>> repoB/main
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4735,6 +5016,7 @@
         "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+<<<<<<< HEAD
         "newtonsoft.json.11.0.2.nupkg.sha512",
         "newtonsoft.json.nuspec"
       ]
@@ -4751,6 +5033,30 @@
         "lib/netstandard1.3/Newtonsoft.Json.Bson.dll",
         "lib/netstandard1.3/Newtonsoft.Json.Bson.xml",
         "newtonsoft.json.bson.1.0.1.nupkg.sha512",
+=======
+        "newtonsoft.json.12.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
+    "Newtonsoft.Json.Bson/1.0.2": {
+      "sha512": "QYFyxhaABwmq3p/21VrZNYvCg3DaEoN/wUuw5nmfAf0X3HLjgupwhkEWdgfb9nvGAUIv3osmZoD3kKl4jxEmYQ==",
+      "type": "package",
+      "path": "newtonsoft.json.bson/1.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net45/Newtonsoft.Json.Bson.dll",
+        "lib/net45/Newtonsoft.Json.Bson.pdb",
+        "lib/net45/Newtonsoft.Json.Bson.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.Bson.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.Bson.pdb",
+        "lib/netstandard1.3/Newtonsoft.Json.Bson.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.Bson.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.Bson.pdb",
+        "lib/netstandard2.0/Newtonsoft.Json.Bson.xml",
+        "newtonsoft.json.bson.1.0.2.nupkg.sha512",
+>>>>>>> repoB/main
         "newtonsoft.json.bson.nuspec"
       ]
     },
@@ -9298,9 +9604,18 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.AspNet.WebApi.Core >= 5.2.7",
+<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore >= 3.1.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.0-preview1.19506.2",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.0-preview1.19506.2",
+=======
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 3.1.5",
+      "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 3.1.5",
+      "Microsoft.EntityFrameworkCore >= 3.1.4",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.0-preview1.19506.2",
+      "Microsoft.EntityFrameworkCore.Tools >= 3.1.0-preview1.19506.2",
+      "Microsoft.Extensions.Configuration.Abstractions >= 5.0.0",
+>>>>>>> repoB/main
       "Microsoft.Extensions.Logging.Debug >= 3.1.0-preview1.19506.1",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.8",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.0-preview1-19509-03",
@@ -9316,11 +9631,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.API\\Private.API.csproj",
       "projectName": "Private.API",
       "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.API\\Private.API.csproj",
       "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.API\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.API\\Private.API.csproj",
+      "projectName": "Private.API",
+      "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.API\\Private.API.csproj",
+      "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.API\\obj\\",
+>>>>>>> repoB/main
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9337,6 +9660,7 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj": {
               "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj"
             },
@@ -9345,6 +9669,16 @@
             },
             "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
               "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj"
+=======
+            "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj": {
+              "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj"
+            },
+            "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj": {
+              "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj"
+            },
+            "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
+              "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj"
+>>>>>>> repoB/main
             }
           }
         }
@@ -9363,6 +9697,17 @@
             "target": "Package",
             "version": "[5.2.7, )"
           },
+<<<<<<< HEAD
+=======
+          "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "target": "Package",
+            "version": "[3.1.5, )"
+          },
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+            "target": "Package",
+            "version": "[3.1.5, )"
+          },
+>>>>>>> repoB/main
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[3.1.4, )"
@@ -9377,6 +9722,13 @@
             "target": "Package",
             "version": "[3.1.0-preview1.19506.2, )"
           },
+<<<<<<< HEAD
+=======
+          "Microsoft.Extensions.Configuration.Abstractions": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          },
+>>>>>>> repoB/main
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[3.1.0-preview1.19506.1, )"

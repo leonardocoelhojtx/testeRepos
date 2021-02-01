@@ -6050,11 +6050,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Data\\Private.Data.csproj",
       "projectName": "Private.Data",
       "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Data\\Private.Data.csproj",
       "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Data\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj",
+      "projectName": "Private.Data",
+      "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj",
+      "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\obj\\",
+>>>>>>> repoB/main
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6071,11 +6079,19 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
               "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj"
             },
             "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Service\\Private.Service.csproj": {
               "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Service\\Private.Service.csproj"
+=======
+            "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
+              "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj"
+            },
+            "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Service\\Private.Service.csproj": {
+              "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Service\\Private.Service.csproj"
+>>>>>>> repoB/main
             }
           }
         }

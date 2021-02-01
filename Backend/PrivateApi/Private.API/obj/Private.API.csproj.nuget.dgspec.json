@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.API\\Private.API.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.API\\Private.API.csproj",
         "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.API\\obj\\",
+=======
+    "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.API\\Private.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.API\\Private.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.API\\Private.API.csproj",
+        "projectName": "Private.API",
+        "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.API\\Private.API.csproj",
+        "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.API\\obj\\",
+>>>>>>> repoB/main
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +42,7 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj": {
                 "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj"
               },
@@ -36,6 +51,16 @@
               },
               "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
                 "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj"
+=======
+              "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj": {
+                "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj"
+              },
+              "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj": {
+                "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj"
+              },
+              "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
+                "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj"
+>>>>>>> repoB/main
               }
             }
           }
@@ -54,6 +79,17 @@
               "target": "Package",
               "version": "[5.2.7, )"
             },
+<<<<<<< HEAD
+=======
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+>>>>>>> repoB/main
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.4, )"
@@ -68,6 +104,13 @@
               "target": "Package",
               "version": "[3.1.0-preview1.19506.2, )"
             },
+<<<<<<< HEAD
+=======
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+>>>>>>> repoB/main
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[3.1.0-preview1.19506.1, )"
@@ -107,6 +150,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -115,6 +159,16 @@
         "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj",
         "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Crosscuting\\obj\\",
+=======
+    "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj",
+        "projectName": "Private.Crosscuting",
+        "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\Private.Crosscuting.csproj",
+        "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Crosscuting\\obj\\",
+>>>>>>> repoB/main
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,8 +185,13 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Data\\Private.Data.csproj": {
                 "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Data\\Private.Data.csproj"
+=======
+              "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj": {
+                "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj"
+>>>>>>> repoB/main
               }
             }
           }
@@ -171,6 +230,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Data\\Private.Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -179,6 +239,16 @@
         "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Data\\Private.Data.csproj",
         "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Data\\obj\\",
+=======
+    "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj",
+        "projectName": "Private.Data",
+        "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\Private.Data.csproj",
+        "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Data\\obj\\",
+>>>>>>> repoB/main
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -195,11 +265,19 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
                 "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj"
               },
               "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Service\\Private.Service.csproj": {
                 "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Service\\Private.Service.csproj"
+=======
+              "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
+                "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj"
+              },
+              "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Service\\Private.Service.csproj": {
+                "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Service\\Private.Service.csproj"
+>>>>>>> repoB/main
               }
             }
           }
@@ -256,6 +334,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -264,6 +343,16 @@
         "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj",
         "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\obj\\",
+=======
+    "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj",
+        "projectName": "Private.Domain",
+        "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj",
+        "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\obj\\",
+>>>>>>> repoB/main
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -316,6 +405,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Service\\Private.Service.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -324,6 +414,16 @@
         "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Service\\Private.Service.csproj",
         "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Service\\obj\\",
+=======
+    "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Service\\Private.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Service\\Private.Service.csproj",
+        "projectName": "Private.Service",
+        "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Service\\Private.Service.csproj",
+        "packagesPath": "C:\\Users\\lca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Service\\obj\\",
+>>>>>>> repoB/main
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -340,8 +440,13 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
                 "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj"
+=======
+              "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj": {
+                "projectPath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj"
+>>>>>>> repoB/main
               }
             }
           }

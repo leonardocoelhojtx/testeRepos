@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "5e+k8hJuABF/0RowwLoHFJu13g9rQsXBX9x4uCpPSwac6xgJG2oBs5blm4juyrKUqJfPjL/aEEILEKnCyPshOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\PrivateApi\\Private.Domain\\Private.Domain.csproj",
+=======
+  "dgSpecHash": "PD/S6ib2LyXhxCvZxvHP8MP9hPWAvIbLtHIueu+7SpuVSjg6mK/PgpbjMjP/Vy6mSI1933iUWxhVjyTfABkDbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lca\\Documents\\GitHub\\DevLC\\Backend\\PrivateApi\\Private.Domain\\Private.Domain.csproj",
+>>>>>>> repoB/main
   "expectedPackageFiles": [
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\lca\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

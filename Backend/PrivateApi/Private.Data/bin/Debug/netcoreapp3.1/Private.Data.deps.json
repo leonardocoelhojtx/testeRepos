@@ -1203,6 +1203,17 @@
         "runtime": {
           "Private.Service.dll": {}
         }
+<<<<<<< HEAD
+=======
+      },
+      "JustaxEmail/1.0.0.0": {
+        "runtime": {
+          "JustaxEmail.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+>>>>>>> repoB/main
       }
     }
   },
@@ -2075,6 +2086,14 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+<<<<<<< HEAD
+=======
+    },
+    "JustaxEmail/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+>>>>>>> repoB/main
     }
   }
 }
